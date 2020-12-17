@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T13:46:38.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.11.0" etag="s3Yh__Yxrs0mM65KFFxK" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T20:32:32.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hG7Rr0i5cqnhdVvkfr4r" version="14.0.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1769" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-4" value="users" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-5" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="90" as="sourcePoint" />
+            <mxPoint x="-40" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Creates &lt;br&gt;an account&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49.9" y="-1.14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-13" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Blockchain account to &lt;br&gt;transfer and receive payment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210.99999999999997" y="170" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-16" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-159.99999999999997" y="40" width="118" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/07.Wallet-128.png" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-16">
+          <mxGeometry x="17" y="8" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cryptocoins/227/BTC-128.png" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-16">
+          <mxGeometry x="80" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cryptocurrency-8/512/template_line-06-128.png" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-16">
+          <mxGeometry x="80" y="40" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cryptocurrency-8/512/template_line-01-128.png" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-16">
+          <mxGeometry x="80" y="78" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-18" value="" style="endArrow=classic;html=1;entryX=0.43;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-4" target="Jc2oNlS0T8JRmYuU1pHI-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83" y="160" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Register&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-21" value="Contract farming platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/japan-flat-2/340/farm_rice_field_agriculture_plant_harvest_food-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="296" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Farming projects&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="259" y="400" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-24" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-30" target="Jc2oNlS0T8JRmYuU1pHI-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Smart contract &lt;br&gt;created&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-26" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Jc2oNlS0T8JRmYuU1pHI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Lists&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Jc2oNlS0T8JRmYuU1pHI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-28" value="" style="endArrow=classic;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-29" value="" style="endArrow=classic;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_12-128.png;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="80" width="101" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-31" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-22" target="Jc2oNlS0T8JRmYuU1pHI-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="250" as="sourcePoint" />
+            <mxPoint x="310" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Users coming &lt;br&gt;to an agreement&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/contract-agreement-document-pen-certification-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="85.5" width="84.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-34" value="&lt;font style=&quot;font-size: 15px&quot;&gt;On agreement between two&lt;br&gt;&amp;nbsp;parties smart contract is deployed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="170" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-36" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.393;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jc2oNlS0T8JRmYuU1pHI-34" target="Jc2oNlS0T8JRmYuU1pHI-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="520" />
+              <mxPoint x="-110" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jc2oNlS0T8JRmYuU1pHI-37" value="&lt;font style=&quot;font-size: 15px&quot;&gt;When&amp;nbsp; terms and conditions of the contract are met. smart contract auto executes and payment is transferred&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-11" y="490" width="381" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
